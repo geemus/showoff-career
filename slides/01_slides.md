@@ -49,9 +49,10 @@
 
 !SLIDE bullets incremental
 # Seek #
-* flexibility
 * open source
-* trust/responsibility
+* flexibility
+* trust
+* responsibility
 
 !SLIDE bullets
 # Questions? #
