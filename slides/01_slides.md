@@ -1,7 +1,7 @@
 !SLIDE
 # geemus (Wesley Beary) #
 
-!SLIDE
+!SLIDE bullets incremental
 # GarageGames #
 * RTS pack
 
@@ -13,31 +13,31 @@
 # Quiktron #
 * rails development
 
-!SLIDE
+!SLIDE bullets incremental
 # Principal Financial Group #
 * rails interning and consulting
 
-!SLIDE
+!SLIDE bullets incremental
 # ImThere #
 * panic
 
-!SLIDE
+!SLIDE bullets incremental
 # LiveJournal #
 * more panic
 
-!SLIDE
+!SLIDE bullets incremental
 # Plinky #
 * CouchDb, Merb, Datamapper
 
-!SLIDE
+!SLIDE bullets incremental
 # Thing Labs #
 * fleeing
 
-!SLIDE
+!SLIDE bullets incremental
 # Engine Yard #
 * fog
 
-!SLIDE
+!SLIDE bullets incremental
 # Heroku #
 * skunkwork
 
